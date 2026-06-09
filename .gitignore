@@ -5,6 +5,7 @@ __pycache__/
 .env
 venv/
 env/
+pdfs_backup/
 
 # ChromaDB (jangan di-push, terlalu besar)
 chroma_db/
