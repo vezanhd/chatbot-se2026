@@ -1,0 +1,7 @@
+.env
+pdfs_backup/
+chroma_db/
+__pycache__/
+*.pyc
+token_usage.json
+unanswered_log.json

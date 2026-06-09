@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# ChromaDB (jangan di-push, terlalu besar)
+chroma_db/
+
+# Logs
+*.log
+unanswered_log.json
+token_usage.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker (opsional, biar repo ringan)
+# *.tar
