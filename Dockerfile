@@ -24,6 +24,5 @@ RUN pip install --no-cache-dir \
 
 COPY . .
 
-EXPOSE 5000
-
-CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--workers", "4", "app:app"]
+EXPOSE 7860
+CMD ["gunicorn", "--bind", "0.0.0.0:7860", "--workers", "1", "--threads", "2", "--timeout", "120", "app:app"]

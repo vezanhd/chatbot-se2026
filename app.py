@@ -26,15 +26,13 @@ UNANSWERED_LOG = "unanswered_log.json"
 # Model configuration - DENGAN FALLBACK STRATEGY
 MODEL_FAST = "llama-3.1-8b-instant"           # Untuk query expansion (cepat, kuota besar)
 MODEL_SMART = "llama-3.3-70b-versatile"       # Primary: generate jawaban (akurat, kuota kecil)
-MODEL_FALLBACK = "mixtral-8x7b-32768"         # Fallback: jika 70B rate limit (kuota besar, cukup akurat)
+MODEL_FALLBACK = "llama-3.1-8b-instant"         # Fallback: jika 70B rate limit (kuota besar, cukup akurat)
 # Alternatif fallback: "llama-3.1-8b-instant" atau "gemma2-9b-it"
 
 # Token limits (Groq Free Tier)
 TOKEN_LIMITS = {
     "llama-3.3-70b-versatile": 100_000,       # 100K tokens/hari
-    "mixtral-8x7b-32768": 500_000,            # 500K tokens/hari
     "llama-3.1-8b-instant": 500_000,          # 500K tokens/hari
-    "gemma2-9b-it": 500_000,                  # 500K tokens/hari
 }
 
 # Conversation history settings
