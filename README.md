@@ -401,9 +401,8 @@ Bersihkan conversation history untuk session tertentu.
 ![Mobile View](assets/mobile-view.png)
 *Tampilan responsive di smartphone untuk petugas lapangan*
 
-### Knowledge Base Structure
-![Knowledge Base](assets/knowledge-base.png)
-*Struktur knowledge base dengan 326 chunks dari 12 dokumen*
+### Side Bar
+![Side Bar](assets/side-bar.png)
 
 ---
 
