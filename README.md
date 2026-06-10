@@ -486,10 +486,10 @@ SOFTWARE.
 
 Full Stack Developer | AI/ML Enthusiast
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [@vezanhidayatullah](https://linkedin.com/in/vezanhidayatullah)
-- 🐙 GitHub: [@vezanhd](https://github.com/vezanhd)
--  Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [hidyatullahvezan@gmail.com](mailto:hidayatullahvezan@gmail.com)
+- 💼 LinkedIn: [Vezan Hidayatullah](https://linkedin.com/in/vezanhidayatullah)
+- 🐙 GitHub: [vezanhd](https://github.com/vezanhd)
+-  Portfolio: [vezanhd.github.io](https://vezanhd.github.io/)
 
 ---
 
