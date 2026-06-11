@@ -28,7 +28,7 @@ Chatbot AI berbasis RAG (Retrieval-Augmented Generation) untuk membantu petugas 
 
 ---
 
-##  Overview
+##  🔍 Overview
 
 **Asisten Virtual SE2026** adalah chatbot AI yang dirancang khusus untuk membantu petugas PPL/PML dalam melaksanakan Sensus Ekonomi 2026. Sistem menggunakan arsitektur **RAG (Retrieval-Augmented Generation)** dengan knowledge base dari dokumen resmi BPS, sehingga jawaban yang diberikan akurat, kontekstual, dan sesuai dengan pedoman resmi sensus.
 
@@ -103,7 +103,7 @@ Chatbot AI yang "telah membaca" seluruh materi pelatihan resmi SE2026 dan dapat 
 
 ---
 
-## ️ Arsitektur Sistem
+## ️ 🏗️ Arsitektur Sistem
 
 ```
 ─────────────────────────────────────────────────────────────┐
@@ -431,24 +431,6 @@ Proyek ini memberikan pengalaman hands-on dalam:
 
 ---
 
-##  Kontribusi
-
-Kontribusi sangat diterima! Silakan:
-
-1. **Fork** repository ini
-2. **Buat branch** fitur (`git checkout -b feature/AmazingFeature`)
-3. **Commit** perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** ke branch (`git push origin feature/AmazingFeature`)
-5. **Buka Pull Request**
-
-### Development Guidelines
-- Ikuti PEP 8 untuk Python code
-- Tambahkan docstrings untuk fungsi baru
-- Update README jika ada perubahan signifikan
-- Test lokal sebelum submit PR
-
----
-
 ## 📄 Lisensi
 
 Distributed under the **MIT License**. See `LICENSE` file for details.
@@ -485,7 +467,7 @@ SOFTWARE.
 
 Full Stack Developer | AI/ML Enthusiast
 
-- 📧 Email: [hidyatullahvezan@gmail.com](mailto:hidayatullahvezan@gmail.com)
+- 📧 Email: [hidyatullahvezan@gmail.com](mailto:hidyatullahvezan@gmail.com)
 - 💼 LinkedIn: [Vezan Hidayatullah](https://linkedin.com/in/vezanhidayatullah)
 - 🐙 GitHub: [vezanhd](https://github.com/vezanhd)
 -  Portfolio: [vezanhd.github.io](https://vezanhd.github.io/)
